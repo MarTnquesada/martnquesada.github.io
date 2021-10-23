@@ -1,6 +1,7 @@
 
 # Created by https://www.toptal.com/developers/gitignore/api/hugo
 # Edit at https://www.toptal.com/developers/gitignore?templates=hugo
+.idea/
 
 ### Hugo ###
 # Generated files by hugo
